@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Leipomo/WebContent/tyyli.css&apos; to &apos;Style.css&apos;" description="Rename resource &apos;tyyli.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/tyyli.css" name="Style.css" stamp="1462885147522" updateReferences="true"/>
+</session>

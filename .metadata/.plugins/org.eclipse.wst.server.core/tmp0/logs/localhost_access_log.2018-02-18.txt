@@ -1,0 +1,11 @@
+127.0.0.1 - - [18/Feb/2018:16:18:32 +0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [18/Feb/2018:16:18:33 +0200] "GET /Leipomo/Paavalikko.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Feb/2018:16:18:33 +0200] "GET /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 1606
+0:0:0:0:0:0:0:1 - - [18/Feb/2018:16:18:33 +0200] "GET /Leipomo/Style.css HTTP/1.1" 200 1590
+127.0.0.1 - - [18/Feb/2018:16:18:39 +0200] "GET /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 1606
+127.0.0.1 - - [18/Feb/2018:16:18:39 +0200] "GET /Leipomo/Style.css HTTP/1.1" 200 1590
+127.0.0.1 - - [18/Feb/2018:16:18:45 +0200] "POST /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 302 -
+127.0.0.1 - - [18/Feb/2018:16:18:45 +0200] "GET /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 1606
+127.0.0.1 - - [18/Feb/2018:16:18:47 +0200] "POST /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 4992
+127.0.0.1 - - [18/Feb/2018:16:18:58 +0200] "POST /Leipomo/EtsiTyyppi_servlet HTTP/1.1" 200 2465
+127.0.0.1 - - [18/Feb/2018:16:19:00 +0200] "POST /Leipomo/EtsiTyyppi_servlet HTTP/1.1" 200 4992

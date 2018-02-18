@@ -1,0 +1,13 @@
+127.0.0.1 - - [14/May/2016:12:35:47 +0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:35:47 +0300] "GET /Leipomo/Paavalikko.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:35:47 +0300] "GET /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 1606
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:35:47 +0300] "GET /Leipomo/Style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:35:59 +0300] "GET /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 1606
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:35:59 +0300] "GET /Leipomo/Style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:35:59 +0300] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:35:59 +0300] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:37:48 +0300] "POST /Leipomo/Lisaa_servlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:37:48 +0300] "GET /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 1606
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:37:53 +0300] "POST /Leipomo/EtsiTuotteet_servlet HTTP/1.1" 200 4992
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:39:26 +0300] "GET /Leipomo/MuutaTuote_servlet?tuotenro=1 HTTP/1.1" 200 1149
+0:0:0:0:0:0:0:1 - - [14/May/2016:12:40:06 +0300] "POST /Leipomo/MuutaTuote_servlet HTTP/1.1" 200 1820
